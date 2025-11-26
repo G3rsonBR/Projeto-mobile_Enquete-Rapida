@@ -78,11 +78,3 @@ Este projeto utiliza uma arquitetura de API desacoplada:
 
 * Node.js instalado
 * Um servidor MySQL rodando
-
-### 1. Clonar o Repositório
-
-```bash
-
-git clone [https://github.com/seu-usuario/projeto-enquete.git](https://github.com/seu-usuario/projeto-enquete.git)
-
-cd projeto-enquete
